@@ -1,5 +1,4 @@
 <resources>
-
     <string name="app_name">XYZ Reader</string>
     <string name="welcome_xyz_reader">Welcome to XYZ Reader!</string>
 
@@ -8,5 +7,21 @@
     <string name="action_share">Share</string>
 
     <string name="up">Up</string>
+    <!-- Label and Content description for Settings -->
+    <string name="settings">Settings</string>
+
+    <!-- Content description for the ImageView -->
+    <string name="reading_content_description">Reading image</string>
+
+    <!-- Transition name -->
+    <string name="transition_photo">transition_photo</string>
+
+    <!-- Text to share-->
+    <string name="share_text_by">&#160;by&#160;</string>
+
+    <!-- Snackbar message -->
+    <string name="snackbar_online">Connected to the Internet</string>
+    <string name="snackbar_offline">You\'re offline. Check your connection!</string>
+    <string name="snackbar_action_retry">RETRY</string>
 
 </resources>
